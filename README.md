@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Venkata Sai Tanish Jonnadula, Computer Science student at NIT Raipur.
+
 <!--
 **venkatasaitanish/venkatasaitanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
